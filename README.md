@@ -10,9 +10,9 @@ This project is part of the HCL Internship Program and involves building solutio
 - **Learning Resources**: Includes links and resources that were useful during the project development phase.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP, Python
-- **Database**: MySQL, MongoDB
+- **Frontend**: CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
 - **Version Control**: Git
 
 ## Installation Guide
