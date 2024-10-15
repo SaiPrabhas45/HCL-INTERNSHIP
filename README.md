@@ -23,3 +23,19 @@ This project is part of the HCL Internship Program and involves building solutio
 
 ```bash
 cd HCL-INTERNSHIP
+## Setup the environment
+Follow the specific setup instructions for each project within the repository. Some projects may require:
+- **Database configuration**
+- **Server setup**
+- **Other environment-specific steps**
+
+## Usage
+Each folder in the repository contains a different project or task completed during the internship. To run the project:
+1. Refer to the **README** or instructions within each folder.
+2. Follow the setup guide to configure dependencies.
+3. Run the code using the specified commands or environment setup.
+
+## Future Improvements
+- Add more complex features to existing projects.
+- Improve documentation for easier setup and usage.
+- Optimize code performance and scalability.
