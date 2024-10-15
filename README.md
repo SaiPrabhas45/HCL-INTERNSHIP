@@ -40,3 +40,6 @@ Each folder in the repository contains a different project or task completed dur
 - Add more complex features to existing projects.
 - Improve documentation for easier setup and usage.
 - Optimize code performance and scalability.
+
+## Creator
+This project was created and maintained by **Sai Prabhas** as part of the HCL Internship Program. With a focus on developing practical solutions, I have leveraged various technologies to address real-world challenges during the internship. My goal is to continually enhance my skills and contribute positively to future projects.
