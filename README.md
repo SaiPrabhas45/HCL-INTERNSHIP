@@ -1,7 +1,7 @@
-#HMS-php (Hospital Management System)
+#HMS-php (Hospital Management System)#
 
 Overview
-HMS-php is a web-based Hospital Management System built using PHP and SQL to manage hospital operations such as patient records, doctor and staff management, and appointment scheduling. It provides a simple yet effective interface for streamlining hospital management tasks.#
+HMS-php is a web-based Hospital Management System built using PHP and SQL to manage hospital operations such as patient records, doctor and staff management, and appointment scheduling. It provides a simple yet effective interface for streamlining hospital management tasks.
 
 #Features
 Patient Registration and Management: Add, edit, and manage patient information.
