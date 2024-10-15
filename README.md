@@ -19,11 +19,12 @@ This project is part of the HCL Internship Program and involves building solutio
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SaiPrabhas45/HCL-INTERNSHIP.git
-## Navigate to the project directory
+## Navigate to the project director 
+    ```bash
+         cd HCL-INTERNSHIP
 
-```bash
-cd HCL-INTERNSHIP
 ## Setup the environment
+
 Follow the specific setup instructions for each project within the repository. Some projects may require:
 - **Database configuration**
 - **Server setup**
